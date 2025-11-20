@@ -8,12 +8,20 @@ const wishes = [
   "Ngày Boys Day vui vẻ! Chúc các anh luôn giữ được nụ cười rạng rỡ và tinh thần tươi trẻ! 🌟",
   "Gửi đến những chàng trai GDG-HUST thân yêu: Luôn vững vàng, luôn tỏa sáng! ✨",
   "Chúc các boy coding giỏi, debug nhanh, và luôn có nhiều commit xanh trên Github! 💻",
-  "Boys Day thật ý nghĩa! Chúc các anh luôn khỏe mạnh, hạnh phúc và đạt được mọi ước mơ! 🎯",
-  "Gửi tặng các boy GDG-HUST: Chúc các anh luôn là phiên bản tốt nhất của chính mình! 🚀",
-  "Chúc mừng Boys Day! Hy vọng các anh luôn có nhiều năng lượng tích cực và động lực học tập! 📚",
-  "Đến những chàng trai GDG: Các anh tuyệt vời lắm! Cứ tiếp tục tỏa sáng nhé! 🌈",
   "Boys Day ý nghĩa! Chúc các anh code không bug, project pass deadline và coffee không bao giờ hết! ☕",
   "Chúc các boy GDG-HUST luôn vui vẻ, yêu đời và chinh phục mọi thử thách trong cuộc sống! 🎉",
+  “Chuc ae mai 3663 nhu cong tu le minh nhe",
+  “Qua tot roi gdghust hnay to chuc boy’s day ae ơi”
+  “Chúc được thật nhiều điểm A/A+ và làm chủ được mọi cuộc chơi trong cuộc sống nhé :)”, 
+  “Nam lay duoc het cac mon ki nay chua ma doi chuc dong nay nắm đc tay iem”,
+  “ĐẸP TRAI HÁT HAY NHƯ RONALDO”,
+  “Thế giới mong cau lon, vay chuc cau mau lon nhe!”, 
+  “Có bao nhiêu cách xếp 5 nữ, 5 nam trên 1 bàn dài 10 ghế sao cho 1 bạn nữ tên Linh luôn ngồi giữa 2 bạn nữ khác.”, 
+  “ハッピー・ボーイズデー！あなたの笑顔を見るだけで、私の一日も明るくなるよ…♡”, 
+  “Happy Boy’s Day! I hope your day is filled with tiny joys, soft smiles, and all the cutest things the world can offer. You deserve a day as adorable as you are! ♡”,
+  “Bonne fête des garçons ! Je te souhaite une journée pleine de joie, d’énergie et de belles surprises.”, 
+  “Có bao nhiêu số tự nhiên từ 1 đến 2001 hoặc chía hết cho 7 hoặc chia hết cho 132”, 
+  “Cac ban nu yeu cac cau lammm”, 
 ];
 
 const Index = () => {
